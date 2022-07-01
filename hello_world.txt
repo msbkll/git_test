@@ -1,1 +1,2 @@
 Wassup bois!
+git commit test without the -m "text"
